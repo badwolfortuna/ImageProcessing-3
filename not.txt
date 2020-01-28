@@ -1,0 +1,2 @@
+Bu ödevde matlab computer vision kütüphanesi kullanýlmýþtýr.Resimler klasörü
+matlab bin dosyasýnýn içerisine atýlmalýdýr.
